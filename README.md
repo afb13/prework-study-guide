@@ -1,6 +1,6 @@
 # prework-study-guide
 Boot Camp prework study guide for students
-# Alex;s Prework Study Guide Webpage
+# Alex's Prework Study Guide Webpage
 
 ## Description
 
